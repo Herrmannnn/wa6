@@ -1,4 +1,15 @@
-.zmena{
-height:300px
-width:600px
+.zmen {
+    height: 300px;
+    width: 600px;
+
+}
+
+.pop {
+    text-align: left;
+}
+.zarovnat{
+    margin: auto;
+display: flex;
+justify-content: center; /* for horizontal */
+align-items: center; /* for vertical */
 }
